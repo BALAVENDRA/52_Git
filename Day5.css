@@ -1,0 +1,110 @@
+ .container{
+    border: 4px solid black;
+    height: 500px;
+    width: 400px;
+    border-radius: 50px;
+    margin-left: 400px;
+    font-size: 30px;
+    overflow:scroll;
+    scrollbar-width: none;
+    background-image: url(https://filmfare.wwmindia.com/content/2022/may/telugufilmfraternitycomestogethertowishjrntrontheoccasionofhisbirthday41653046470.jpg);
+ }
+ .header{
+   /*border: 2px solid black;*/
+   background-color: green;
+   position: sticky;
+   top: 0px;
+   width: 400px; 
+   height: 100px;
+   border-radius: 40px 40px 0px 0px;
+ }
+ h6{
+    display:inline-block;
+ }
+ .Footer{
+  /* border:2px solid black;*/
+   background-color: antiquewhite;
+   position: sticky;
+   bottom: 0px;
+   font-size: 20px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+ }
+ input{
+  display: inline-block;
+ }
+ .right-5{
+   margin-left: 150px;
+   background-color: lightgreen;
+   border-radius: 20px;
+   font-size: 20px;
+ }
+ .right-4{
+   margin-left: 150px;
+   background-color: lightgreen;
+    border-radius: 20px;
+    font-size: 20px;
+ }
+ .right-3{
+   margin-left: 150px;
+   background-color: lightgreen;
+    border-radius: 20px;
+    font-size: 20px;
+ }
+ .right-2{
+   margin-left: 150px;
+   background-color: lightgreen;
+    border-radius: 20px;
+    font-size: 20px;
+ }
+ .right-1{
+   margin-left: 150px;
+   background-color: lightgreen;
+    border-radius: 20px;
+    font-size: 20px;
+ }
+  .left-5{
+    margin-right: 150px;
+   background-color: lightgreen;
+   border-radius: 20px;
+   font-size: 20px;
+   display: inline-block;
+ }
+ .left-4{
+   margin-right: 150px;
+   background-color: lightgreen;
+    border-radius: 20px;
+    font-size: 20px;
+    display: inline-block;
+ }
+ .left-3{
+   margin-right: 150px;
+   background-color: lightgreen;
+    border-radius: 20px;
+    font-size: 20px;
+    display: inline-block;
+ }
+ .left-2{
+   margin-right: 150px;
+   background-color: lightgreen;
+    border-radius: 20px;
+    font-size: 20px;
+    display: inline-block;
+ }
+ .left-1{
+   margin-right: 150px;
+   background-color: lightgreen;
+    border-radius: 20px;
+    font-size: 20px;
+    display: inline-block;
+ }
+.date{
+  margin-left: 150px;
+  font-size: 20px;
+  background-color: antiquewhite;
+  display: inline-block;
+  position: sticky;
+  top: 100px;
+ }
+
+ 
